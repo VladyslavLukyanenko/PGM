@@ -45,7 +45,7 @@ import tc.oc.pgm.filters.query.IPlayerQuery;
 import tc.oc.pgm.filters.query.PlayerQuery;
 import tc.oc.pgm.kits.Kit;
 import tc.oc.pgm.kits.WalkSpeedKit;
-import tc.oc.util.logging.ClassLogger;
+import tc.oc.util.ClassLogger;
 import tc.oc.world.DeathOverride;
 import tc.oc.world.NMSHacks;
 
