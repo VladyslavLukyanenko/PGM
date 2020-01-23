@@ -332,7 +332,7 @@ public class MatchPlayerImpl implements MatchPlayer, MultiAudience, Comparable<M
 
   @Override
   public Settings getSettings() {
-    return PGM.get().getDatastoreCache().getSettings(id);
+    return PGM.get().getDatastore().getSettings(id);
   }
 
   @Override
